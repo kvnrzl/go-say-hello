@@ -1,3 +1,3 @@
-module github.com/kvnrzl/go-mod
+module github.com/kvnrzl/go-say-hello
 
 go 1.17
